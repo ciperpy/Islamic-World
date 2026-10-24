@@ -23,7 +23,7 @@ Explore the Quran, listen to recitations, read authentic Islamic content, and ac
 
 Get the latest available Android APK from the official GitHub Releases page.
 
-**[⬇️ Download Islamic World](https://github.com/ciperpy/Islamic-World/releases/latest)**
+**[⬇️ Download Islamic World](https://islamicworldwebsite.ubaidbilal957.workers.dev/)**
 
 ### Installation
 
