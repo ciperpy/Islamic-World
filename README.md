@@ -23,7 +23,7 @@ Explore the Quran, listen to recitations, read authentic Islamic content, and ac
 
 Get the latest available Android APK from the official GitHub Releases page.
 
-**[⬇️ Download Islamic World](https://islamicworldwebsite.ubaidbilal957.workers.dev/)**
+**[⬇️ Download Islamic World](https://islamicworld.ubaid.pro/)**
 
 ### Installation
 
@@ -49,7 +49,7 @@ To get the latest version:
 
 Visit the official Islamic World website:
 
-**[Islamic World Website](https://islamicworldwebsite.ubaidbilal957.workers.dev/)**
+**[Islamic World Website](https://islamicworld.ubaid.pro/)**
 
 The website provides information about the app and access to the latest available download.
 
